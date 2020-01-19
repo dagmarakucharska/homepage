@@ -1,0 +1,28 @@
+body {
+    background: #8d9196;
+}
+
+.navigationHeader {
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+    text-decoration: none;
+}
+.mainHeader {
+    color: rgb(0, 0, 0);
+}
+
+.sectionHeader {
+    color: rgb(0, 0, 0);
+}
+
+.preliminaryParagraph {
+    color: rgb(0, 0, 0);
+}
+
+.paragraphHeader {
+    color:rgb(0, 0, 0);
+}
+
+.aboutParagraph {
+    color: rgb(0, 0, 0);
+}
